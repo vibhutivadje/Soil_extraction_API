@@ -1,0 +1,4 @@
+saversion,saverest,areasymbol,areaname,lkey,musym,muname,museq,mukey,comppct_r,compname,slope_r,cokey,hzdept_r,hzdepb_r,chkey,sandtotal_r,silttotal_r,claytotal_r,om_r,dbthirdbar_r,ksat_r,awc_r,caco3_r,cec7_r,ec_r,ph1to1h2o_r
+16,5/29/2020 11:40:42 AM,IL015,"Carroll County, Illinois",15806,86C3,"Osco silty clay loam, 5 to 10 percent slopes, severely eroded",23,795950,92,Osco,8,19755390,0,20,57739841,1,71,28,2,1.45,9.17,0.22,0,23.1,1,6.3
+16,5/29/2020 11:40:42 AM,IL015,"Carroll County, Illinois",15806,86C3,"Osco silty clay loam, 5 to 10 percent slopes, severely eroded",23,795950,92,Osco,8,19755390,20,91,57739842,1,69,30,0.5,1.4,9.17,0.19,0,23.3,1,6.4
+16,5/29/2020 11:40:42 AM,IL015,"Carroll County, Illinois",15806,86C3,"Osco silty clay loam, 5 to 10 percent slopes, severely eroded",23,795950,92,Osco,8,19755390,91,200,57739843,3,77,20,0.2,1.35,9.17,0.19,0,15.6,1,6.8
